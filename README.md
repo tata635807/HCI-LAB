@@ -36,6 +36,10 @@ Coming Soon ...
 
 ## 2BKMUTT
 
+### 2020
+- FOBI v.3
+- Rock, Paper, Scissors
+
 ### 2019
 - [Design and Development of Virtual Robot Exhibition using Virtual Reality Technology](https://github.com/fibohcilab/internship-2019-Design-and-Development-of-Virtual-Robot-Exhibition-using-Virtual-Reality-Technology)
 - [Robot Gripper for Detecting Object Using Flex Sensor](https://github.com/fibohcilab/2bkmutt-2019-Robot-Gripper-for-Detecting-Object-Using-Flex-Sensor)
